@@ -5,3 +5,5 @@ This is a simple JavaScript project that displays the time and timezone of the c
 The project is built with HTML for the markup and CSS together with Tailwind CSS for styling, and JavaScript with the dayJs library for the functionality of the project.
 ## Screenshot
  ![Screenshot](./design/screenshot.png)
+
+## What I learned 
