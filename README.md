@@ -7,3 +7,4 @@ The project is built with HTML for the markup and CSS together with Tailwind CSS
  ![Screenshot](./design/screenshot.png)
 
 ## What I learned 
+I learned how to use a popular JavaScript library.
